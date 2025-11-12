@@ -1,8 +1,6 @@
 # U.S. Fintech Company Classification: IPO Analysis & Manual Verification
 Python automation for fintech IPO classification - Suffolk University Research and Conference Assistant 
 
-# Fintech Company Classification Project
-
 ## Project Overview
 
 This repository contains Python scripts and methodologies developed during my research assistantship at Suffolk University (May–July 2025) to systematically identify and classify fintech companies from a comprehensive dataset of U.S. Initial Public Offerings (IPOs). The project combines automated data extraction, text analysis, and manual verification to create a robust classification system for financial technology companies.
